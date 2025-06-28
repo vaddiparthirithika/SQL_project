@@ -77,7 +77,7 @@ As a Data Analyst, your role is to:
 
 ---
 
-## 📁 Files Included
+## Files Included
 
 - new_wheels_ER_diagram.pdf
 - new_wheels_project_dumpfile.sql - Input Data
@@ -86,7 +86,7 @@ As a Data Analyst, your role is to:
 
 ---
 
-## uture Scope
+## Future Scope
 
 - Automate KPI tracking with a live SQL dashboard
 - Use NLP to analyze open-ended customer feedback
